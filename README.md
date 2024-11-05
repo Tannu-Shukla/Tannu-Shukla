@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tannu-Shukla
-- 👀 I’m interested in Python programming language
-- 🌱 I’m currently learning Pyhton programming language 
-- 💞️ I’m looking to collaborate on Python projects on AI/ML and Data Analyst
+- 👀 I’m interested in Python programming language and Android Application Development
+- 🌱 I’m currently learning Application Development
+- 💞️ I’m looking to collaborate on Python projects on AI/ML and Data Analyst and projects on Android Application Dev.
 - 📫 How to reach me Gmail:tannushukla693@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Aiming to contribute to open-source Python projects.
